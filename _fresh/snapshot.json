@@ -1,0 +1,22 @@
+{
+  "build_id": "2300d36c66bd5346600cc67f583dbd81c2e352a2",
+  "files": {
+    "main.js": [
+      "chunk-HC5NB2UW.js"
+    ],
+    "deserializer.js": [],
+    "signals.js": [
+      "chunk-SQQWGDPB.js",
+      "chunk-HC5NB2UW.js"
+    ],
+    "island-streamflow.js": [
+      "chunk-SQQWGDPB.js",
+      "chunk-HC5NB2UW.js"
+    ],
+    "chunk-SQQWGDPB.js": [
+      "chunk-HC5NB2UW.js"
+    ],
+    "chunk-HC5NB2UW.js": [],
+    "metafile.json": []
+  }
+}
